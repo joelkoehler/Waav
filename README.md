@@ -1,2 +1,2 @@
 # WAAV
-A GUI music keyboard that plays sound files and uses the built in console beep. Created by John Martin, Edward Kourbanov, and Joel Koehler.
+A GUI music keyboard modeled off of the MPK Mini MIDI controller that plays sound files and uses VB.NET's built-in console beep. Waav also has various drum loops to play along with. Created by joelkoehler, edwardkourbanov, and john-with-an-h.
